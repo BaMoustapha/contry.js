@@ -1,0 +1,25 @@
+body {
+    background-color: #fff;
+    color: #333;
+}
+
+.dark-mode {
+    background-color: #333;
+    color: #fff;
+}
+
+.cards {
+    display: flex;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+  }
+
+.ba {
+    display: flex;
+}
+
